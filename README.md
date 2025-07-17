@@ -16,5 +16,3 @@ This repository contains my learning and practice work with the **Pandas** libra
 
 ---
 
-## 📂 Folder Structure
-
